@@ -1,6 +1,6 @@
 # golang_endpoint
 
-After playing around with go for a bit I tried the tuturial on how to create a webservice using gin package. https://go.dev/doc/tutorial/web-service-gin
+After playing around with go for a bit I tried the tuturial on how to create a webservice using gin module. https://go.dev/doc/tutorial/web-service-gin
 
 I tried a few things not in the tuturial:
 + I created a new type called AlbumSlice to represent the slice (aka mutable array) of Albums.
